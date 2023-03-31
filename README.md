@@ -1,7 +1,9 @@
 # qb-target
 
 qb-target is a targeting solution that allows interaction with any predefined entity, model, entity type or polyzone. While activated you can easily and safely replace markers and distance checking, instead relying on intuitive design to improve player experiences and optimize interaction.
-
+## NYC MAPS
+- [CRM DEVELOPMENT](https://discord.gg/crm)  
+- [Hell Script Shop](https://discord.gg/WKNRDtF9jp) 
 ## Credits
 
 * Lots of credits goes to [qtarget](https://github.com/overextended/qtarget) for rewriting all of bt-target to make it more optimized and this resource is pretty much a fork of it.
