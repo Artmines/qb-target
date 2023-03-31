@@ -13,7 +13,7 @@ qb-target is a targeting solution that allows interaction with any predefined en
 * Credit to [ms-peds](https://github.com/MiddleSkillz/ms-peds) for allowing me to use their awesome ped spawner inside the target!
 
 ## Dependency
-
+* [angelicxs_flipcar](https://github.com/GouveiaXS/angelicxs-flipcars)
 * [PolyZone](https://github.com/mkafrin/PolyZone)
 
 ## Optional Dependency
