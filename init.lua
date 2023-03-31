@@ -208,71 +208,7 @@ Config.GlobalPlayerOptions = {
 }
 
 Config.Peds = {
-		[1]= {
-			model = `s_m_m_autoshop_02`,
-			coords = vector4(408.90036010742, -1622.8045654297, 28.291929244995, 226.47685241699),
-			networked = true,
-			invincible = true,
-			blockevents = true,
-			freeze = true,
-			target = {
-				options = {
-					{
-						type = "client",
-						event = "emfan-parking:client:impoundList",
-						icon = "fas fa-car",
-						label = "Impound",
-					},
-				},
-				distance = 2.5
-			},
-		},
-		[2] = { 
-			model = 'a_m_m_farmer_01',
-		coords = vector4(175.35, -1279.96, 29.49, 337.25),
-		minusOne = true,
-		freeze = true,
-		invincible = true,
-		blockevents = true,
-		-- animDict = 'amb@world_human_aa_smoke@male@idle_a',
-		 --anim = 'idle_a',
-		scenario = 'WORLD_HUMAN_AA_SMOKE',
-		flag = 1,
-		target = {
-			options = {
-			{
-			 type = "client",
-			 event = "qb-lumberjack:menuseller",
-			 icon = 'Fas Fa-hands',
-			 label = 'Talk to Seller',
-			}
-		},
-		distance = 2.5,
-		},
-		},
-		[3] = { 
-			model = 'a_m_m_farmer_01',
-		coords = vector4(-661.62, -933.47, 21.83, 169.53),
-		minusOne = true,
-		freeze = true,
-		invincible = true,
-		blockevents = true,
-		-- animDict = 'amb@world_human_aa_smoke@male@idle_a',
-		 --anim = 'idle_a',
-		scenario = 'WORLD_HUMAN_AA_SMOKE',
-		flag = 1,
-		target = {
-			options = {
-			{
-			 type = "client",
-			 event = "bit-pets:open",
-			 icon = 'Fas Fa-hands',
-			 label = 'Petshop',
-			}
-		},
-		distance = 2.5,
-		},
-	},
+		
 
 	}
 
